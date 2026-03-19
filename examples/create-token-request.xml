@@ -4,7 +4,7 @@
   xsi:schemaLocation="https://www.example.com ../schemas/create-token-request.xsd">
 
   <CreditCard>
-    <Account>12510100710</Account>
+    <Account>1251010071025157</Account>
     <CardHolderName>Minato Namikaze</CardHolderName>
     <ExpirationMonth>4</ExpirationMonth>
     <ExpirationYear>2027</ExpirationYear>
