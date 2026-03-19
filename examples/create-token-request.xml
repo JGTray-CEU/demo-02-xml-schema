@@ -6,7 +6,6 @@
   <CreditCard>
     <Account>12510100710</Account>
     <CardHolderName>Minato Namikaze</CardHolderName>
-    <ExpirationDate>27/4</ExpirationDate>
     <ExpirationMonth>4</ExpirationMonth>
     <ExpirationYear>2027</ExpirationYear>
   </CreditCard>
