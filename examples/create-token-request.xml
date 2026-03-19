@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CreateTokenRequest xmlns="https://www.example.com"
   xmlns:xsi="http://.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="https://www.example.com ../schemas/create-token-request-.xsd">
+  xsi:schemaLocation="https://www.example.com ../schemas/create-token-request.xsd">
 
   <CreditCard>
     <Account>12510100710</Account>
